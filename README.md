@@ -1,2 +1,4 @@
 # phicomm-k3_firmware
-PHICOMM K3 available wireless firmware
+Download the file to your computer and rename it to: brcmfmac4366c-pcie.bin, put it in / lib / firmware / to use the wireless function.
+Different wireless firmware has different wireless signal strength
+Note: If you use brcmfmac4366c-pcie.bin.k3, you will not be able to set the wireless password.
